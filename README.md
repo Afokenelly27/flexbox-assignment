@@ -32,3 +32,4 @@ As mentioned above, there are a number of ways to host your project for free. We
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
 **Have fun building!** 🚀
+This project demonstrates the use of flex box for css layout  Languages used: HTML  CSS was also applied Research: Used YouTube videos https://youtu.be/N02jJxVl1yA  # for_flexbox
